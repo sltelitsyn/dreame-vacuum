@@ -188,6 +188,7 @@ DREAME_MODELS = [
     "dreame.vacuum.r2492b",
     "dreame.vacuum.r2492j",
     "dreame.vacuum.r2495",
+    "dreame.vacuum.r2538a",
     "dreame.vacuum.r9301",
     "dreame.vacuum.r9302",
     "dreame.vacuum.r9304",
